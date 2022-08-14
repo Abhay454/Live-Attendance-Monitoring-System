@@ -1,4 +1,4 @@
-# Face-Recognition-and-Attendance-System
+# Live Attendance Monitoring System
 
 ## Description:
 
